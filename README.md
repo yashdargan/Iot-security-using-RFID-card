@@ -19,4 +19,4 @@ project uses Arduino UNO Microcontroller and Its IDE .
    (download-link)[https://www.arduinolibraries.info/libraries/mfrc522]
    
 ##Presentation
-   !(sides)[https://www.canva.com/design/DAE5bpXSFOE/tsBuCiZgNT7YO8DSlc5s7Q/edit?utm_content=DAE5bpXSFOE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+   !(sides)[https://github.com/yashdargan/Iot-security-using-RFID-card/blob/main/iot%20security.pdf]
